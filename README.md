@@ -44,9 +44,5 @@ A TÜBİTAK-funded project to aid visually impaired individuals in navigating ou
 
 ---
 
-### Elbette, harika fikir. Upwork profilini de ekleyerek "Get In Touch" bölümünü daha profesyonel hale getirebiliriz.
-
-Aşağıda, Upwork profili eklenmiş ve görsel olarak daha çekici hale getirilmiş README.md bölümünü bulabilirsin. Bunu doğrudan kopyalayıp mevcut olanla değiştirebilirsin.
-
 📫 Get In Touch
 <p align="left"> <a href="mailto:erdembayhan28@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/erdem-bayhan-362710213" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.upwork.com/freelancers/~018335944667e491c9?mp_source=share" target="_blank"> <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/> </a> </p>
